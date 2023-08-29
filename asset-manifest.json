@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/SupplyChainWasteManagement/static/js/main.a86d8d8f.js",
+    "index.html": "/SupplyChainWasteManagement/index.html",
+    "main.a86d8d8f.js.map": "/SupplyChainWasteManagement/static/js/main.a86d8d8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a86d8d8f.js"
+  ]
+}
