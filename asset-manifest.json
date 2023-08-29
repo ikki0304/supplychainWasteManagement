@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/supplychainWasteManagement/static/js/main.54de6f2f.js",
+    "main.js": "/supplychainWasteManagement/static/js/main.eaf27506.js",
     "index.html": "/supplychainWasteManagement/index.html",
-    "main.54de6f2f.js.map": "/supplychainWasteManagement/static/js/main.54de6f2f.js.map"
+    "main.eaf27506.js.map": "/supplychainWasteManagement/static/js/main.eaf27506.js.map"
   },
   "entrypoints": [
-    "static/js/main.54de6f2f.js"
+    "static/js/main.eaf27506.js"
   ]
 }
